@@ -20,6 +20,7 @@ namespace gitAula809_2
         private void Form1_Load(object sender, EventArgs e)
         {
             label1.Text = "1º commit";
+            label2.Text = "2º commit";
         }
     }
 }
