@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fernas\\source\\repos\\gitAula809_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2FA7F6CC-FC8B-4D2E-A92B-7A1388F9A194}|gitAula809_2\\gitAula809_2.csproj|c:\\users\\fernas\\source\\repos\\gitaula809_2\\gitaula809_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA7F6CC-FC8B-4D2E-A92B-7A1388F9A194}|gitAula809_2\\gitAula809_2.csproj|solutionrelative:gitaula809_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FA7F6CC-FC8B-4D2E-A92B-7A1388F9A194}|gitAula809_2\\gitAula809_2.csproj|c:\\users\\fernas\\source\\repos\\gitaula809_2\\gitaula809_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2FA7F6CC-FC8B-4D2E-A92B-7A1388F9A194}|gitAula809_2\\gitAula809_2.csproj|solutionrelative:gitaula809_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fernas\\source\\repos\\gitAula809_2\\gitAula809_2\\Form1.cs",
+              "RelativeDocumentMoniker": "gitAula809_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\fernas\\source\\repos\\gitAula809_2\\gitAula809_2\\Form1.cs",
+              "RelativeToolTip": "gitAula809_2\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:21:31.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fernas\\source\\repos\\gitAula809_2\\gitAula809_2\\Form1.cs",
               "RelativeDocumentMoniker": "gitAula809_2\\Form1.cs",
